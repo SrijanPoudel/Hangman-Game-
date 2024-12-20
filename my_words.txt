@@ -1,0 +1,5 @@
+apple,A popular fruit.
+python,A programming language.
+laptop,A portable computer.
+ocean,A large body of saltwater.
+coffee,A caffeinated drink.
